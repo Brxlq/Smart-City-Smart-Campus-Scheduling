@@ -156,8 +156,8 @@ Topological sorting then schedules tasks safely, and shortest/longest paths guid
 ---
 
 ## Author Information
-**Student:** [Yerkebulan Sovet]
-**Group:** [SE-2430]
-**Course:** Design and Analysis of Algorithms
-**Instructor:** [Aidana Aidynkyzy]
+**Student:** [Yerkebulan Sovet]<br>
+**Group:** [SE-2430]<br>
+**Course:** Design and Analysis of Algorithms<br>
+**Instructor:** [Aidana Aidynkyzy]<br>
 **Date:** November 2, 2025
