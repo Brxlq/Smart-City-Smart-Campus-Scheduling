@@ -65,7 +65,7 @@ Total datasets: 9 JSON files
 ---
 
 ## Project Structure
-
+```
 ass4/
 │
 ├── pom.xml
@@ -96,7 +96,7 @@ ass4/
 │       ├── graph/topo/TopologicalSortTest.java
 │       └── graph/dagsp/DAGShortestPathsTest.java
 
-
+```
 ---
 
 ## Build & Run Instructions
@@ -161,14 +161,3 @@ Topological sorting then schedules tasks safely, and shortest/longest paths guid
 **Course:** Design and Analysis of Algorithms
 **Instructor:** [Aidana Aidynkyzy]
 **Date:** November 2, 2025
-
-
-
-
-
-
-
-
-
-  "weight_model": "edge"
-}
